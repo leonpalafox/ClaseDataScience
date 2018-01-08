@@ -9,7 +9,9 @@ Los alumnos aprenderán y validarán distintas herramientas con diferentes sets 
 
 #Github
 
-Github(https://github.com) es una herramienta para sincronizar código y mantener control de versiones.
+[Github](https://github.com) es una herramienta para sincronizar código y mantener control de versiones.
 
 #Kaggle Datasets
+
+[Kaggle](https://www.kaggle.com/datasets) es un sitio donde diversas empresas pueden colocar sus datos, y hacen competencias abiertas a todo el público.
 
